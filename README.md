@@ -22,6 +22,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [React Pro Sidebar](https://github.com/azouaoui-med/react-pro-sidebar)
 
+[Google Font](https://fonts.google.com/)
+
 In the project directory, you can run:
 
 ### `npm start`
