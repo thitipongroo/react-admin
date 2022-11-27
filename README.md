@@ -10,17 +10,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Dependencies List:
 
-[material ui](https://mui.com/material-ui/getting-started/installation/)
+[Material UI](https://mui.com/material-ui/getting-started/installation/)
 
-[nivo charts](https://nivo.rocks/components/)
+[Nivo Charts](https://nivo.rocks/components/)
 
-[full calendar](https://fullcalendar.io/docs)
+[Full Calendar](https://fullcalendar.io/docs)
 
-[formik: https](https://formik.org/docs/overview#installation)
+[Formik](https://formik.org/docs/overview#installation)
 
-[yup validation](https://github.com/jquense/yup)
+[Yup Validation](https://github.com/jquense/yup)
 
-[react pro sidebar](https://github.com/azouaoui-med/react-pro-sidebar)
+[React Pro Sidebar](https://github.com/azouaoui-med/react-pro-sidebar)
 
 In the project directory, you can run:
 
